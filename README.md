@@ -5,11 +5,14 @@ In using these services, if you don't want to provide your actual email address,
 
 If you have any you would like added, make a pull request or start an issue!
 
+For fellow programmers: a * at the end of the line means that the game/website is open-source.
+
 # Real-Time
  - Settlers of Catan: [Colonist.io](https://colonist.io/)
- - Coup: [Treason Coup](https://coup.thebrown.net/)
- - Chess: [Lichess](lichess.org/)
+ - Coup: [Treason Coup](https://coup.thebrown.net/)*
+ - Chess: [Lichess](lichess.org/)*
+ - Pictionary: [Skribbl.io](https://skribbl.io/)
 
 # Slow Games
- - Chess: [Lichess](lichess.org/)
+ - Chess: [Lichess](lichess.org/)*
  - Risk, Axis & Allies, Diplomacy, History of the World, Acquire, Chess, Checkers, Connect-4, and many more: [GamesByEmail](http://gamesbyemail.com/)
