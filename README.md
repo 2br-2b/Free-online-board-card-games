@@ -18,6 +18,7 @@ For fellow programmers: a * at the end of the line means that the game/website i
  - Risk (official): ([Steam](https://store.steampowered.com/app/1128810/RISK_Global_Domination/), [Google Play Store](https://play.google.com/store/apps/details?id=com.hasbro.riskbigscreen&hl=en), [App Store](https://apps.apple.com/us/app/risk-global-domination/id1051334048))
  - Settlers of Catan: [Colonist.io](https://colonist.io/)
  - Settlers of Catan (official): [Catan Universe](https://catanuniverse.com/en) ([Steam](https://store.steampowered.com/app/544730/Catan_Universe/))
+ - Uno (official): [UNO!™](https://www.letsplayuno.com/)
 
 # Slow Games
  - Chess: [Lichess](lichess.org/)*
