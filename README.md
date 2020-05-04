@@ -10,14 +10,14 @@ If you have any you would like added, make a pull request or start an issue!
 For fellow programmers: a * at the end of the line means that the game/website is open-source.
 
 # Real-Time
- - Settlers of Catan: [Colonist.io](https://colonist.io/)
- - Coup: [Treason Coup](https://coup.thebrown.net/)*
  - Chess: [Lichess](lichess.org/)*
- - Pictionary: [Skribbl.io](https://skribbl.io/)
- - Settlers of Catan (official): [Catan Universe](https://catanuniverse.com/en) ([Steam](https://store.steampowered.com/app/544730/Catan_Universe/))
+ - Coup: [Treason Coup](https://coup.thebrown.net/)*
  - Memoir '44 (official): [Memoir '44 Online](https://www.daysofwonder.com/online/en/m44/) ([Steam](https://store.steampowered.com/app/108210/Memoir_44_Online/))
+ - Pictionary: [Skribbl.io](https://skribbl.io/)
  - Risk (official): ([Steam](https://store.steampowered.com/app/1128810/RISK_Global_Domination/), [Google Play Store](https://play.google.com/store/apps/details?id=com.hasbro.riskbigscreen&hl=en), [App Store](https://apps.apple.com/us/app/risk-global-domination/id1051334048))
- 
+ - Settlers of Catan: [Colonist.io](https://colonist.io/)
+ - Settlers of Catan (official): [Catan Universe](https://catanuniverse.com/en) ([Steam](https://store.steampowered.com/app/544730/Catan_Universe/))
+
 # Slow Games
  - Chess: [Lichess](lichess.org/)*
  - Risk, Axis & Allies, Diplomacy, History of the World, Acquire, Chess, Checkers, Connect-4, and many more: [GamesByEmail](http://gamesbyemail.com/)
