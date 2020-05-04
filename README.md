@@ -3,6 +3,8 @@ A list of a bunch of websites you can use to play board games and card games onl
 
 In using these services, if you don't want to provide your actual email address, use [a proxy address](https://anonaddy.com/) or [a temporary email address](https://10minutemail.com/). I would suggest using one of these so that you don't have to give your actual email address.
 
+Also, as a warning, official apps often contain in-app purchases or other microtransactions. I'm only including games you can play for free, but official games usually only let you play for a limited amount of time/play a limited number of games per day.
+
 If you have any you would like added, make a pull request or start an issue!
 
 For fellow programmers: a * at the end of the line means that the game/website is open-source.
