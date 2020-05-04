@@ -13,7 +13,7 @@ For fellow programmers: a * at the end of the line means that the game/website i
  - Chess: [Lichess](lichess.org/)*
  - Pictionary: [Skribbl.io](https://skribbl.io/)
  - Settlers of Catan (official): [Catan Universe](https://catanuniverse.com/en) [Steam](https://store.steampowered.com/app/544730/Catan_Universe/)
- - Memoir '44 (official): [Memoir '44 Online](https://www.daysofwonder.com/online/en/m44/) [Steam]https://store.steampowered.com/app/108210/Memoir_44_Online/)
+ - Memoir '44 (official): [Memoir '44 Online](https://www.daysofwonder.com/online/en/m44/) [Steam](https://store.steampowered.com/app/108210/Memoir_44_Online/)
 
 # Slow Games
  - Chess: [Lichess](lichess.org/)*
