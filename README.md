@@ -7,7 +7,7 @@ Also, as a warning, official apps often contain in-app purchases or other microt
 
 If you have any you would like added, make a pull request or start an issue!
 
-For another list, see (this tweet from @ellalovesbg)[https://twitter.com/ellalovesbg/status/1259674518164889600/photo/1] or (download the PDF from Google Drive here)[https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view].
+For another list, see [this tweet from @ellalovesbg](https://twitter.com/ellalovesbg/status/1259674518164889600/photo/1) or [download the PDF from Google Drive here](https://drive.google.com/file/d/1NO-05LM-SakbwqNajBXgIO4HuCSkBd6n/view).
 
 For fellow programmers: a * at the end of the line means that the game/website is open-source.
 
